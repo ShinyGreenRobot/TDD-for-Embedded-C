@@ -1,10 +1,15 @@
 # TDD-for-Embedded-C
-Material related to reading the book Test-Driven Development for Embedded C, James W. Grenning.
+Material related to reading Test-Driven Development for Embedded C, by James W. Grenning. This is in the rest of this text referred to as "the book".
 
 ## Resources
-The following are some resources that can be useful.
+The following are some resources that can be useful while working through the book.
 
-Offical site for the book [pragprog.com/titles/jgade](http://www.pragprog.com/titles/jgade).
+[Official site of the book](http://www.pragprog.com/titles/jgade).
 
-The home of Unity [throwtheswitch.org/unity](http://www.throwtheswitch.org/unity) a light weight test harness test used in the book and in some of the code in this repository.
+[Code on GitHub for the book](https://github.com/jwgrenning/tddec-code).
+
+[Unity information site](http://www.throwtheswitch.org/unity) and [Unity GitHub](https://github.com/ThrowTheSwitch/Unity).
+
+
+
 
